@@ -1,4 +1,2 @@
 # Sanbercode41
-
-Latihan ngetik dulu
-mungkin harus ada 2 orang untuk bisa dijalankan
+Link Git Hub Kelompok https://github.com/vanessasheila/SanbercodeQA-Kelompok10
